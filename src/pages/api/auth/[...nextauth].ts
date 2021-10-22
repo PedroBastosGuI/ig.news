@@ -14,3 +14,7 @@ export default NextAuth({
 
     ],
 })
+
+
+//faunaDB faz requisições HTTP 
+ 
